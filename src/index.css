@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+*{
+  font-family: 'Lato';
+  margin: 0%;
+  padding: 0.5em;
+  margin:0.25em 0.25em;
+  text-align: center;
+}
+.header{
+  color: white;
+  background-color: #b9dd65;
+  font-weight: bold;
+  border-radius: 4px;
+}
+.form-field label{
+  font-size: 25px;
+}
+.form-field textarea{
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.form-field button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.footer{
+  color: white;
+  background-color: #b9dd65;
+  font-weight: bold;
+  border-radius: 4px;
+}
+.Output h3{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+}
+.Output h2{
+  font-weight: 300;
+}
